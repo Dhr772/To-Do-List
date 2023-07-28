@@ -28,6 +28,6 @@ Include screenshots or GIFs showcasing the application's user interface and feat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/to-do-list.git
+git clone https://github.com/Dhr772/to-do-list.git
 
 a comprehensive to-do list manager GitHub repository. TaskMaster is built using JavaScript, HTML, and CSS, making it an ideal project for web development enthusiasts. As a powerful task tracker and organizer, TaskMaster empowers users to efficiently manage their daily tasks and projects. With its user-friendly interface and robust features, TaskMaster simplifies task management by allowing users to add, edit, and delete tasks effortlessly. Whether you're a beginner or an experienced developer, TaskMaster serves as an excellent project to explore web development concepts while building a practical task app. Experience the convenience and organization provided by TaskMaster - your go-to solution for effective task management.
